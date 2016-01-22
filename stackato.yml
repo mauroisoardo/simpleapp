@@ -1,0 +1,8 @@
+app-dir: C:\hdp\applications\simpleapp\
+disk: 2048
+
+memory: 256
+
+name: MaturityProgram
+
+framework: php
